@@ -20,4 +20,4 @@ This Android application allows users to manage personal events such as work, so
 2. Build and run on emulator or device
 
 ## Author
-Your Name
+Qiyang Wu
